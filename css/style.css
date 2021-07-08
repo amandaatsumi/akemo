@@ -1,0 +1,53 @@
+img{
+
+  text-align: center;
+  padding: 50px;
+
+}
+body{
+  text-align: center;
+}
+.fotos{
+  text-align: center;
+    margin: 10px 0 0 0 ;
+  background-color: #BB8760;
+}
+.top{
+  background-color: #4C4C6D;
+  padding: 50px;
+  margin: 0
+}
+.div{
+  margin: 50px;
+}
+.blue{
+  background-color: #47597E;
+    margin: 10px 0 0 0 ;
+
+}
+
+.vai{
+    color:#DBE6FD;
+}
+.gif{
+  position: absolute;
+  width: 20%;
+  height: 50%;
+  right: 50px;
+}
+h1, h2{
+  font-family: 'Satisfy', cursive;
+  margin: 50px;
+  color: #B8DFD8;
+}
+h3{
+  font-family: 'Yomogi', cursive;
+  margin: 50px;
+  color: #FFE194;
+}
+.totoro{
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 5px;
+}
